@@ -1,0 +1,19 @@
+{
+  "name": "combinatorial-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/r00kieee1/Combinatorial-analysis.git"
+  },
+  "author": "Abdul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r00kieee1/Combinatorial-analysis/issues"
+  },
+  "homepage": "https://github.com/r00kieee1/Combinatorial-analysis#readme"
+}
