@@ -1,10 +1,11 @@
 //This is the function to find the factorial of a single given number;
+
 function factorial(n) {
     let sum = n;
     if(n <= 1) {
         return sum;
     } else {
-        return sum = n * factorial(n - 1);   
+        return sum = n * factorial(n - 1);
     }
 }
 //This is a funtion to find the combination of two numbers:
